@@ -1,5 +1,5 @@
-﻿make,model,vid,pid,revision,mode,type,reportExtensionId,perClickLatency,polledActuation,pulseFrequencyHz,actuationDetectionDurationUs,maximumHostPollRateHz,avgLmbLatencyUs,stdDevUs,adjustedAvgLmbLatencyUs,Tested By
-NVIDIA LUT Version,v0.99.1 1-14-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
+make,model,vid,pid,revision,mode,type,reportExtensionId,perClickLatency,polledActuation,pulseFrequencyHz,actuationDetectionDurationUs,maximumHostPollRateHz,avgLmbLatencyUs,stdDevUs,adjustedAvgLmbLatencyUs,Tested By
+NVIDIA LUT Version,v0.99.2 1-22-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
 Asus,ROG Chakram (wired),0b05,18e3,0928,wired,none,FALSE,FALSE,FALSE,0,0,1000,2115,355,2115,NVIDIA
 Asus,ROG Chakram (wireless),0b05,18e5,0930,wireless,none,TRUE,FALSE,FALSE,0,0,1000,2993,390,2993,NVIDIA
 Asus,ROG Chakram Core,0b05,1958,0108,wired,none,FALSE,TRUE,FALSE,0,0,1000,616,281,616,NVIDIA
@@ -31,6 +31,7 @@ Logitech G,502 Lightspeed (wired),046d,c08d,1700,wired,none,FALSE,FALSE,FALSE,0,
 Logitech G,PRO X SUPERLIGHT (wireless),046d,4093,0000,wireless,wireless,TRUE,FALSE,FALSE,0,0,1000,1843,284,1843,NVIDIA
 Logitech G,PRO X SUPERLIGHT (wired),046d,c094,2500,wired,none,FALSE,TRUE,FALSE,0,0,1000,808,302,808,NVIDIA
 MSI,GM11,0db0,0d11,0309,wired,none,FALSE,FALSE,FALSE,0,0,1000,1710,1123,1710,NVIDIA
+MSI,GM41,0db0,0d41,0210,wired,none,FALSE,TRUE,FALSE,0,0,1000,4348,328,4348,NVIDIA
 MSI,Clutch GM08,0db0,0d08,0100,wired,none,FALSE,FALSE,FALSE,0,0,1000,18801,406,18801,NVIDIA
 MSI,Clutch GM50,0db0,0d50,0132,wired,none,FALSE,FALSE,FALSE,0,0,1000,13592,504,13592,NVIDIA
 MSI,Clutch GM30,0db0,0d30,0210,wired,none,FALSE,FALSE,FALSE,0,0,1000,8416,730,8416,NVIDIA
