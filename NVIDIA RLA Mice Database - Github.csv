@@ -1,9 +1,10 @@
 make,model,vid,pid,revision,mode,type,reportExtensionId,perClickLatency,polledActuation,pulseFrequencyHz,actuationDetectionDurationUs,maximumHostPollRateHz,avgLmbLatencyUs,stdDevUs,adjustedAvgLmbLatencyUs,Tested By
-NVIDIA LUT Version,v0.99.5 4-6-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
+NVIDIA LUT Version,v0.99.6 5-3-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
 Acer,Predator Cestus 330,3938,1184,0101,wired,none,FALSE,TRUE,FALSE,0,0,1000,16916,279,16916,NVIDIA
 Acer,Predator Cestus 330,3938,1184,0109,wired,none,FALSE,TRUE,FALSE,0,0,1000,1576,283,1576,NVIDIA
 Acer,Predator Cestus 350,3938,1218,0107,wireless,none,FALSE,FALSE,FALSE,0,0,1000,17589,301,17589,NVIDIA
 Acer,Predator Cestus 350 (wired),3938,1172,0121,wired,none,FALSE,TRUE,FALSE,0,0,1000,16580,285,16580,NVIDIA
+Acer,Predator Cestus 350 (wired),3938,1172,0122,wired,none,FALSE,TRUE,FALSE,0,0,1000,1576,284,1576,NVIDIA
 Acer,AOPEN Fire Legend GM310,3938,1176,0104,wired,none,FALSE,TRUE,FALSE,0,0,1000,16560,283,16560,NVIDIA
 Alienware,AW610M (wireless),0461,4ec0,0303,wireless,none,FALSE,TRUE,FALSE,0,0,1000,4543,424,4543,NVIDIA
 Alienware,AW610M (wired),0461,4e9d,0308,wired,none,FALSE,TRUE,FALSE,0,0,1000,4125,402,4125,NVIDIA
