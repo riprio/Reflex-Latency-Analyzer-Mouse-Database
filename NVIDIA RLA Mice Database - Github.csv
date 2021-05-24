@@ -1,5 +1,5 @@
 make,model,vid,pid,revision,mode,type,reportExtensionId,perClickLatency,polledActuation,pulseFrequencyHz,actuationDetectionDurationUs,maximumHostPollRateHz,avgLmbLatencyUs,stdDevUs,adjustedAvgLmbLatencyUs,Tested By
-NVIDIA LUT Version,v0.99.6 5-3-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
+NVIDIA LUT Version,v0.99.7 5-24-21,10de,0000,0000,wired,none,TRUE,TRUE,TRUE,0,0,0,0,0,0,NVIDIA
 Acer,Predator Cestus 330,3938,1184,0101,wired,none,FALSE,TRUE,FALSE,0,0,1000,16916,279,16916,NVIDIA
 Acer,Predator Cestus 330,3938,1184,0109,wired,none,FALSE,TRUE,FALSE,0,0,1000,1576,283,1576,NVIDIA
 Acer,Predator Cestus 350,3938,1218,0107,wireless,none,FALSE,FALSE,FALSE,0,0,1000,17589,301,17589,NVIDIA
@@ -18,6 +18,10 @@ Corsair,Dark Core RGB Pro (wired),1b1c,1b80,0207,wired,none,FALSE,TRUE,FALSE,0,0
 Corsair,Dark Core RGB Pro (wireless),1b1c,1b81,0204,wireless,none,FALSE,TRUE,FALSE,0,0,1000,1202,326,1202,NVIDIA
 Corsair,Dark Core RGB PRO SE (wired),1b1c,1b7e,0207,wired,none,FALSE,TRUE,FALSE,0,0,1000,648,287,648,NVIDIA
 Corsair,Dark Core RGB PRO SE (wireless),1b1c,1b7f,0204,wireless,none,FALSE,TRUE,FALSE,0,0,1000,1220,326,1220,NVIDIA
+Corsair,Dark Core RGB Pro (wired),1b1c,1b80,0500,wired,none,FALSE,TRUE,FALSE,0,0,1000,713,285,713,NVIDIA
+Corsair,Dark Core RGB Pro (wireless),1b1c,1b81,0500,wireless,none,FALSE,TRUE,FALSE,0,0,1000,1169,315,1169,NVIDIA
+Corsair,Dark Core RGB PRO SE (wired),1b1c,1b7e,0500,wired,none,FALSE,TRUE,FALSE,0,0,1000,715,286,715,NVIDIA
+Corsair,Dark Core RGB PRO SE (wireless),1b1c,1b7f,0500,wireless,none,FALSE,TRUE,FALSE,0,0,1000,1186,327,1186,NVIDIA
 Corsair,CHAMPION SERIES SABRE PRO,1b1c,1b7a,0109,wired,none,FALSE,TRUE,FALSE,0,0,1000,609,290,609,NVIDIA
 Corsair,CHAMPION SERIES SABRE RGB PRO,1b1c,1b79,0109,wired,none,FALSE,TRUE,FALSE,0,0,1000,573,285,573,NVIDIA
 Finalmouse,Ultralight Phantom,04d9,ad50,0100,wired,none,FALSE,FALSE,FALSE,0,0,1000,6132,622,6132,NVIDIA
